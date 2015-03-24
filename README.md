@@ -1,6 +1,6 @@
 TSNExtensions
 =============
-Useful extensions for iOS and OS X.
+Useful extensions for iOS.
 
 Using TSNExtensions
 -------------------
