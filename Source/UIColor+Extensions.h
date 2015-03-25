@@ -23,6 +23,8 @@
 //  UIColorExtensions.h
 //
 
+#import <UIKit/UIKit.h>
+
 // UIColor (Extensions) interface.
 @interface UIColor (Extensions)
 
