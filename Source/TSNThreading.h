@@ -26,6 +26,7 @@
 #ifndef TSNThali_TSNThreading_h
 #define TSNThali_TSNThreading_h
 
+#import <Foundation/Foundation.h>
 #import <pthread.h>
 
 // Executes the specified block on the main thread.
